@@ -1,2 +1,2 @@
 # CodeForces_Solutions
- This contain solutions of the various Codeforces contest which i will be attending
+ These are the Solutions to the questions I have attended on CodeForces during various contests
