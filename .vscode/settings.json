@@ -4,6 +4,7 @@
     "__split_buffer": "cpp",
     "vector": "cpp",
     "__locale": "cpp",
-    "string_view": "cpp"
+    "string_view": "cpp",
+    "iostream": "cpp"
   }
 }
